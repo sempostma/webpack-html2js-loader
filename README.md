@@ -1,14 +1,3 @@
-<div align="center">
-  <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200" vspace="" hspace="25"
-      src="[https://worldvectorlogo.com/logos/webpack.svg](https://webpack.js.org/assets/icon-square-big.svg)">
-  </a>
-  <a href="https://html2js.esstudio.site">
-    <img width="200" height="200" vspace="" hspace="25"
-      src="https://html2js.esstudio.site/android-chrome-256x256.png">
-  </a>
-</div>
-
 # html2js-loader
 
 Exports HTML to javascript instructions. Create javascript functions from HTML templates.
