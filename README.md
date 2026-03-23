@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" vspace="" hspace="25"
-      src="https://worldvectorlogo.com/logos/webpack.svg">
+      src="[https://worldvectorlogo.com/logos/webpack.svg](https://webpack.js.org/assets/icon-square-big.svg)">
   </a>
   <a href="https://html2js.esstudio.site">
     <img width="200" height="200" vspace="" hspace="25"
